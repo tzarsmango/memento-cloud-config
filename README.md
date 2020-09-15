@@ -1,4 +1,4 @@
-#Memento Cloud Config Server
+# Memento Cloud Config Server
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build status](https://github.com/tzarsmango/memento-cloud-config/workflows/Publish%20master/badge.svg)](https://github.com/tzarsmango/memento-cloud-config/actions)
 
